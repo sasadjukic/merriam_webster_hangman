@@ -5,4 +5,4 @@
 - The user engages in classic hangman game and guesses the word provided by the scrape
 
 <strong>LIMITATIONS</strong>
-- There's only one word of the day MW website, so you can play this game once in 24 hours
+- There's only one "Word of the Day" on MW website, so you can play this game once in 24 hours
